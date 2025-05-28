@@ -3,7 +3,7 @@ layout: page
 title: CV
 permalink: /cv
 weight: 3
-description: Alessio Sordo Curriculum Vitae.
+description: Younga Shin Curriculum Vitae.
 ---
 
 {% include cv.html %}
