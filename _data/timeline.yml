@@ -1,22 +1,28 @@
-- title: Computer Engineering Intern - Nimbus Research Centre, Ireland
-  from: 04/2023
-  to: present
-  description: >
-                Project description:<br>
-                Development of an IoT system for monitoring and actuating sanitary waters in critical public
-                buildings, to avoid the formation of harmful bacteria.
-                <h6>Main tasks:</h6>
-                <ul>
-                  <li> Validation of the IoT device structure, based on the ESP32-S3 development board;</li>
-                  <li> Firmware development for the device, using the C framework ESP-IDF;</li>
-                  <li> Setup of the IoT platform, on the cloud hosted commercial solution TagoIO;</li>
-                  <li> Research on possible Machine Learning approaches to correlate temperature and bacteria, for
-                  a more efficient and sustainable flushing pattern.</li>
-                </ul>
-                
+- title: Master in Civil and Environmental Engineering, Yonsei University, Seoul, Korea
+  from: Sep 2024
+  to: Present
+  description: |
+    Advisor: Prof. Hongjo Kim  
+    GPA: 4.22 / 4.3
 
-- title: Private tutor - GoStudent, Online
-  from: 05/2022
-  to: present
-  description: Online tutor of math, english and informatics, with more than 100 lessons completed
-               and 10 regular students. Helped also the commercial team with trial lessons for new clients.
+- title: B.S. in Film and Digital Media, Dongguk University, Seoul, Korea
+  from: Mar 2013
+  to: Feb 2019
+  description: |
+    Advisor: Prof. Jongho Park  
+    GPA: 4.22 / 4.5  
+    Summa Cum Laude
+
+- title: Anglophone Study Abroad Program, ISTC (Institut des Stratégies et Techniques de Communication), Lille, France
+  from: Aug 2023
+  to: Dec 2023
+  description: |
+    Focus: French (Basic), Branding & Visual Identity, Intercultural Communication,  
+    Multicultural Consumer Behavior, Global Brand Strategy
+
+- title: Videographing PD, SBS NEWS – SUBUSU NEWS (1.23M subscribers), Korea
+  from: Jul 2021
+  to: Feb 2024
+  description: |
+    Planned and executed visual sequences for news features, managing camera, lighting,  
+    and sound in collaboration with editorial teams.
