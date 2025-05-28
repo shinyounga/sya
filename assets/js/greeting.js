@@ -18,12 +18,23 @@ function showGreeting() {
 }
 
 function automaticAge() {
-    var date = new Date();
-    var year = date.getFullYear();
-    var age = year - 1999;
+    var today = new Date();
+    var birthDate = new Date(2000, 10, 6); 
+
+    var age = today.getFullYear() - birthDate.getFullYear();
+
+
+    var hasHadBirthdayThisYear =
+        today.getMonth() > birthDate.getMonth() ||
+        (today.getMonth() === birthDate.getMonth() && today.getDate() >= birthDate.getDate());
+
+    if (!hasHadBirthdayThisYear) {
+        age--;
+    }
 
     document.querySelector("#age").innerHTML = age;
 }
+
 
 // Call the showGreeting function once the DOM content is loaded
 showGreeting();
