@@ -1,11 +1,11 @@
 ### Site Settings ###
-title               : Alessio Sordo
-tagline             : Alessio Sordo's personal website.
+title               : Younga Shin
+tagline             : Younga Shin's personal website.
 description         : >-
-                      A 24-year-old Computer Science Engineering student from Italy, passionate about IoT and Machine Learning and with a basic knowledge of Electronics.
+                      A 24-year-old Master student from South Korea, passionate about Deep Learning in Civil and Environmental Engineering.
 baseurl             : "/"                            # Comment if you are hosting your site at <your-username>.github.io directly
-url                 : https://www.alesordo.com
-repository          : alesordo/alesordo.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
+url                 : https://www.youngahshin.com
+repository          : shinyounga/shinyounga.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 # remote_theme        : YoussefRaafatNasry/portfolYOU
 open_new_tab        : true                             # Opens external URLs in new tab (works for posts, projects, navbar and footer only)
 source              : .
@@ -37,18 +37,18 @@ nav_exclude:                                            # The following paths ar
 
 ### Author Info ###
 author:
-  name              : Alessio Sordo
-  picture           : assets/profile-picture.webp
-  url               : https://alesordo.com
+  name              : Younga Shin
+  picture           : assets/profile.jpg
+  url               : https://youngashin.com
 #  behance           : your_username
 # dribbble          : your_username
   email             : /contact
 #  facebook          : your_username
-  github            : alesordo
+  github            : shinyounga
 # gitlab            : your_username
 # instagram         : your_username
 # kaggle            : your_username
-  linkedin          : alessio-sordo
+  linkedin          : Younga Shin
 #  medium            : your_username
 # soundcloud        : your_username
 # spotify           : your_username
@@ -64,8 +64,10 @@ author:
 social:
   name: Alessio Sordo
   links:
-    - https://www.linkedin.com/in/alessio-sordo
-    - https://github.com/alesordo
+    - https://www.linkedin.com/in/younga-shin/
+    - https://scholar.google.com/citations?user=PS_CX0AAAAA
+    - http://orcid.org/0009-0006-6792-6395
+    - https://github.com/shinyounga
 
 ### Posts ###
 permalink: /blog/:title
