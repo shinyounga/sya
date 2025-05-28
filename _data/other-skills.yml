@@ -1,11 +1,19 @@
-- name: Git
-  percentage: 75
-  color: secondary
+- name: Revit
+  percentage: 90
+  color: danger
+  
+- name: Final Cut Pro
+  percentage: 100
+  color: danger
 
-- name: IoT systems development
-  percentage: 70
+- name: Adobe Premiere Pro
+  percentage: 100
+  color: warning
+
+- name: Adobe Photoshop
+  percentage: 80
+  color: info
+
+- name: Adobe Illustrator
+  percentage: 80
   color: success
-
-- name: Machine Learning and AI
-  percentage: 65
-  color: primary
