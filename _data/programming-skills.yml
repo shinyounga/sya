@@ -1,15 +1,11 @@
-- name: C
-  percentage: 80
-  color: secondary
-
 - name: Python
+  percentage: 90
+  color: danger
+
+- name: Pytorch
+  percentage: 80
+  color:
+
+- name: Docker
   percentage: 70
-  color: yellow
-
-- name: JavaScript
-  percentage: 65
-  color: warning
-
-- name: Java
-  percentage: 60
-  color: info
+  color: secondary
