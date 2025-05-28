@@ -1,5 +1,5 @@
 ---
-name: Smart Sensing for Levee Failures
+name: Water Level Forecasting for Levee Breach Prevention
 tools: [Python, deep learning, time-series forecasting, real-time monitoring]
 image: ../assets/proj_imgs/wastewater/pcb.webp
 description: Government-funded research project on early detection and warning of levee breaches using autonomous AI-based sensing platforms.
