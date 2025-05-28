@@ -4,7 +4,7 @@ tagline             : Younga Shin's personal website.
 description         : >-
                       A 24-year-old Master student from South Korea, passionate about Deep Learning in Civil and Environmental Engineering.
 baseurl             : "/"                            # Comment if you are hosting your site at <your-username>.github.io directly
-url                 : https://www.youngahshin.com
+url                 : https://shinyounga.github.io/sya/
 repository          : shinyounga/shinyounga.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 # remote_theme        : YoussefRaafatNasry/portfolYOU
 open_new_tab        : true                             # Opens external URLs in new tab (works for posts, projects, navbar and footer only)
