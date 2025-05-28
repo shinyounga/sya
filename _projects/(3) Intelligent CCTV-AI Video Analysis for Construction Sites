@@ -1,0 +1,28 @@
+---
+name: Intelligent CCTV-AI Video Analysis for Construction Sites
+tools: [video editing, Adobe Premiere, AI visualization, stakeholder communication]
+image: ../assets/proj_imgs/cctv_ai/overview.webp
+description: Created technical demo and promotional videos for construction site AI systems to support stakeholder engagement and model validation.
+---
+
+# Intelligent CCTV-AI Video Analysis for Construction Sites
+
+This project, led by **Kumho Engineering & Construction**, focuses on building an AI-driven video analysis system using construction site CCTV footage to monitor safety, operations, and compliance in real time.
+
+As a **Video Editor & Technical Content Creator**, my role centered on translating technical progress into engaging, informative, and visually clear videos to communicate system performance and value to diverse stakeholders.
+
+## Main tasks:
+
+- **AI model result visualization:** Edited footage and integrated overlays showing real-time detection of safety gear, movement patterns, and abnormal behaviors.
+![demo](../assets/proj_imgs/cctv_ai/ai_overlay_demo.webp)
+
+- **Technical demonstration video production:** Designed and edited videos that walk viewers through system functionalities, from video ingestion to detection outputs and alert generation.
+![demo_flow](../assets/proj_imgs/cctv_ai/demo_flow.webp)
+
+- **Stakeholder presentation support:** Produced short promotional videos tailored for client meetings, investment presentations, and public release.
+![presentation](../assets/proj_imgs/cctv_ai/presentation.webp)
+
+- **Toolchain:** Used Adobe Premiere Pro and After Effects for editing, combined with assets from Python-based model outputs (e.g., YOLO, DeepSORT).
+![tools](../assets/proj_imgs/cctv_ai/tools.webp)
+
+> The videos created in this project helped bridge the gap between deep learning system development and real-world understanding, enabling clearer communication of technical achievements and use-case relevance.
